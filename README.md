@@ -1,21 +1,22 @@
 # Audit-Oriented Financial Analysis Project
 
 ## Project Overview
-This project simulates an audit-oriented financial analysis process,
-including data cleaning, financial ratio analysis, trend analysis,
-and audit risk identification.
+This project uses Python to analyze company financial statements.
+It includes basic data cleaning, financial ratio analysis,
+and simple audit risk identification.
 
 ## Background
-Designed for accounting and audit internship applications (Big 4),
-with a focus on audit planning and professional judgment.
+This project is created by a sophomore student for accounting
+and audit internship applications.  
+It focuses on understanding financial data and identifying
+possible audit risks.
 
 ## Project Structure
-- data/: Raw financial statement data
-- notebooks/: Analysis notebooks
-- reports/: Audit-style written outputs
+- data/: Financial statement data
+- notebooks/: Python analysis notebooks
+- reports/: Simple audit analysis reports
 
 ## Tools & Skills
 - Python (pandas)
-- Financial statement analysis
-- Audit risk identification
-
+- Financial ratio analysis
+- Basic audit risk analysis
